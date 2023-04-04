@@ -1,6 +1,6 @@
 ---
-sidebar_position: 4
 slug: /cnc
+sidebar_position: 10
 ---
 
-# CNC
+# Machines CNC

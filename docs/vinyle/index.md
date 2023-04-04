@@ -1,6 +1,6 @@
 ---
-sidebar_position: 6
-slug: /vinyle
+slug: vinyle
+sidebar_position: 20
 ---
 
 # Découpe vinyle

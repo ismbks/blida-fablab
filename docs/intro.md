@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # Bienvenue 👋
 
-Bienvuenue dans la doc du MIDO, l'atelier numérique de Bliiida.
+Bienvenue sur la documentation du MIDO.

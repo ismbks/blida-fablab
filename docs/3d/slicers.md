@@ -1,5 +1,5 @@
 # Slicers
 
-## Cura
+## Ultimaker Cura
 
 ## PrusaSlicer

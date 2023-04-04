@@ -1,4 +1,6 @@
-# Studio Idaë : La porte numérique
+# Mobilier d'inclusion numérique
+
+## La porte numérique
 
 ![Porte numérique](https://design-ouvert.fr/images/YLA7420.jpg)
 

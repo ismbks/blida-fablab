@@ -1,8 +1,8 @@
 ---
-sidebar_position: 99
 slug: /projets
+sidebar_position: 99
 ---
 
 # Projets
 
-Les différents projets du MIDO
+Les différents projets du MIDO.
